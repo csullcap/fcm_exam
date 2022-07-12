@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fcm_exam</string>
+    <string name="notification_channel_id" translatable="false">DANP_fcm_CHANNEL</string>
+    <string name="notification_channel_name" translatable="true">DANP_fcm</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738005853994",
+    "project_id": "fcm-exam-b7848",
+    "storage_bucket": "fcm-exam-b7848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738005853994:android:8e63ced54042c7b3da6053",
+        "android_client_info": {
+          "package_name": "danp.exam.fcm_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738005853994-hse2jb5ec8g6r0nv9gjo1ef4o3etfpf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPf6SQDo0GO2ybdSil17IviHm5Fr7kMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738005853994-hse2jb5ec8g6r0nv9gjo1ef4o3etfpf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
